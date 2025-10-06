@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NEET 2026 Futura Planner ( index.html )",
+  "description": "A futuristic, web-based planner to help students organize, track, and analyze their NEET preparation. It features task planning, progress dashboards, and operates fully offline using localStorage.",
+  "requestFramePermissions": []
+}
